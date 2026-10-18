@@ -3,6 +3,14 @@ This repo contains my work from the course of the SkyNet mission. SkyNet was a H
 
 This repo contains only my own work from this project. It does not include the work completed by my teammates Casey Donovan, Liam Moran and Fazira Huwaidaa. The original repo coult not be cloned from UCD for pirvacy reasons.
 
+<p align="center">
+  <img src="unnamed.png" alt="SkyNet Logo">
+</p>
+
+<p align="center">
+  <img src="ARNIE.png" alt="ARNIE Logo">
+</p>
+
 SkyNet Mission Parameters:
 - Duration of the flight: ~2-hour
 - Max Altitude: ~27 km
@@ -17,10 +25,10 @@ There are has four folders in this REPO:
 -------
 Key directory contents: 
 1. ARNIE
-> Data Augmentation:
+Data Augmentation:
 Data_Set_Creation.py
 
-> Training:
+Training:
 ARNIE_GENESIS.py
 
 2. TOM
