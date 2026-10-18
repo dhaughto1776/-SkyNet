@@ -1,0 +1,14 @@
+These are the data files ARNIE is trained on. Given the high likelihood of SkyNet flying over/near Lough Neagh, and away from Lough Erne, some bias was given to the former in terms of more data.
+
+DATA GEN LOG 5 - :
+* T29UNA_20250521T115512_TCI_10m.png - Lough Erne 1 - Alt range: 7, 9, 11.5, 14, 19
+	- 7990 ims - 1.2Gb
+* T29UPA_20250521T114401_TCI_10m.png - Lough Neagh 1 - Alt range: 7, 9, 11.5, 14, 19, 21
+	- 12000 ims - 1.6Gb
+* T29UPA_20260228T114349_TCI_10m.jp2 - Lough Neagh 2 - Alt range: 13, 17, 23
+	- 2600 ims - 562mb
+
+* T29UNA_20250402T115421_TCI_10m.png - Lough Erne 2 - Alt range: 8, 10, 12, 22
+	- 4800 ims - 697mb
+* T29UPA_20250713T114349_TCI_10m.jp2 - Lough Neagh 3 ENV - Alt range: 9, 12, 14, 20
+	- 4800 ims - 678mb

@@ -1,0 +1,2 @@
+# Depracated Software
+This folder contains tools developed over the course of SkyNet development that were not part of the final flight software suite. These served as building blocks for improved versions, but are retained here to show the development journey of SkyNet.
